@@ -1,0 +1,121 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DESCARGARMUSICA.COM.TK" resolutions="1x" timestamp="1492895708629">
+  <folder name="images">
+    <file name="u197-4.png" crc="8827343" ref="artistas:generos:pedidos:index:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+    <file name="01_mega_logosvg.png" crc="181613332" seo="true" ref="artistas:generos:pedidos:index:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna">
+      <caption webpage="pedidos" alt=""/>
+      <caption webpage="madonna" alt=""/>
+      <caption webpage="taylor-swift" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="artistas" alt=""/>
+      <caption webpage="nirvana" alt=""/>
+      <caption webpage="led-zepelin" alt=""/>
+      <caption webpage="metallica" alt=""/>
+      <caption webpage="the-beatles" alt=""/>
+      <caption webpage="megadeth" alt=""/>
+      <caption webpage="nicki-minaj" alt=""/>
+      <caption webpage="generos" alt=""/>
+      <caption webpage="ariana-grande" alt=""/>
+    </file>
+    <file name="n4nrht-crop-u211.jpg" crc="4134363840" seo="true" ref="artistas:generos:pedidos:index:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna">
+      <caption webpage="pedidos" alt=""/>
+      <caption webpage="madonna" alt=""/>
+      <caption webpage="taylor-swift" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="artistas" alt=""/>
+      <caption webpage="nirvana" alt=""/>
+      <caption webpage="led-zepelin" alt=""/>
+      <caption webpage="metallica" alt=""/>
+      <caption webpage="the-beatles" alt=""/>
+      <caption webpage="megadeth" alt=""/>
+      <caption webpage="nicki-minaj" alt=""/>
+      <caption webpage="generos" alt=""/>
+      <caption webpage="ariana-grande" alt=""/>
+    </file>
+    <file name="nirvana-with-the-lights-out-cover-crop-u948.jpg" crc="4133192246" seo="true" ref="artistas">
+      <caption webpage="artistas" alt=""/>
+    </file>
+    <file name="the-beatles-1__140613232022-crop-u958.jpg" crc="516343702" seo="true" ref="artistas">
+      <caption webpage="artistas" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u968.jpg" crc="4112926031" seo="true" ref="artistas">
+      <caption webpage="artistas" alt=""/>
+    </file>
+    <file name="megadeth-dystopia-crop-u978.jpg" crc="406549958" seo="true" ref="artistas">
+      <caption webpage="artistas" alt=""/>
+    </file>
+    <file name="madonna-1983-album1-xxlarge_trans_nvbqzqnjv4bqqvzuuqpflyliwib6ntmjwfsvwez_ven7c6bhu2jjnt8-crop-u988.jpg" crc="4270517362" seo="true" ref="artistas">
+      <caption webpage="artistas" alt=""/>
+    </file>
+    <file name="ariana-grande-2-crop-u998.jpg" crc="536664778" seo="true" ref="artistas">
+      <caption webpage="artistas" alt=""/>
+    </file>
+    <file name="965e907e38f7c4f532f1a3a2c6235966-crop-u1008.jpg" crc="191083822" seo="true" ref="artistas">
+      <caption webpage="artistas" alt=""/>
+    </file>
+    <file name="mi0003942580-crop-u1018.jpg" crc="151885642" seo="true" ref="artistas">
+      <caption webpage="artistas" alt=""/>
+    </file>
+    <file name="a6186459266bfaa86be41f49cb4ffd80-crop-u1028.jpg" crc="304124648" seo="true" ref="artistas">
+      <caption webpage="artistas" alt=""/>
+    </file>
+    <file name="4201565-concert-wallpapers.jpg" crc="3946186974" ref="artistas:generos:pedidos:index:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna">
+      <caption webpage="pedidos" alt=""/>
+      <caption webpage="madonna" alt=""/>
+      <caption webpage="taylor-swift" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="artistas" alt=""/>
+      <caption webpage="nirvana" alt=""/>
+      <caption webpage="led-zepelin" alt=""/>
+      <caption webpage="metallica" alt=""/>
+      <caption webpage="the-beatles" alt=""/>
+      <caption webpage="megadeth" alt=""/>
+      <caption webpage="nicki-minaj" alt=""/>
+      <caption webpage="generos" alt=""/>
+      <caption webpage="ariana-grande" alt=""/>
+    </file>
+    <file name="sin título.jpg" crc="436427713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="211894220" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="288836564" ref="metallica:led-zepelin:madonna:artistas:generos:index:ariana-grande:taylor-swift:the-beatles:nicki-minaj:nirvana:pedidos:megadeth"/>
+    <file name="metallica.css" crc="98344987" ref="metallica"/>
+    <file name="led-zepelin.css" crc="98344987" ref="led-zepelin"/>
+    <file name="madonna.css" crc="98344987" ref="madonna"/>
+    <file name="artistas.css" crc="471749039" ref="artistas"/>
+    <file name="generos.css" crc="98344987" ref="generos"/>
+    <file name="ariana-grande.css" crc="98344987" ref="ariana-grande"/>
+    <file name="taylor-swift.css" crc="98344987" ref="taylor-swift"/>
+    <file name="the-beatles.css" crc="98344987" ref="the-beatles"/>
+    <file name="nicki-minaj.css" crc="98344987" ref="nicki-minaj"/>
+    <file name="nirvana.css" crc="98344987" ref="nirvana"/>
+    <file name="pedidos.css" crc="98344987" ref="pedidos"/>
+    <file name="megadeth.css" crc="98344987" ref="megadeth"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:artistas:generos:pedidos:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+    <file name="museutils.js" crc="4232573551" ref="index:artistas:generos:pedidos:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+    <file name="whatinput.js" crc="86476730" ref="index:artistas:generos:pedidos:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:artistas:generos:pedidos:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:artistas:generos:pedidos:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+    <file name="require.js" crc="4234670167" ref="index:artistas:generos:pedidos:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="artistas:generos:pedidos:index:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="artistas:generos:pedidos:index:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+    <file name="html5shiv.js" crc="4241844378" ref="artistas:generos:pedidos:index:nirvana:megadeth:metallica:taylor-swift:nicki-minaj:ariana-grande:the-beatles:led-zepelin:madonna"/>
+  </folder>
+  <file name="index.html" crc="3856761723" seo="true" mt="1492895677660" redirect="true"/>
+  <file name="artistas.html" crc="4012813250" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="generos.html" crc="261523409" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="pedidos.html" crc="453054086" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="nirvana.html" crc="1036834" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="megadeth.html" crc="244997980" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="metallica.html" crc="3926356147" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="taylor-swift.html" crc="4155124361" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="nicki-minaj.html" crc="4273032307" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="ariana-grande.html" crc="3891080214" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="the-beatles.html" crc="266418204" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="led-zepelin.html" crc="4252081837" seo="true" mt="1492895604279" redirect="true"/>
+  <file name="madonna.html" crc="125463232" seo="true" mt="1492895604279" redirect="true"/>
+</manifest>
